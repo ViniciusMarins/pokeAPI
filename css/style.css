@@ -52,7 +52,7 @@ main {
 
 .pokemon_name {
   color: #3a444d;
-  text-transform: capitalize();
+  text-transform: capitalize;
 }
 
 .form {
